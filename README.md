@@ -89,3 +89,16 @@ Accept **Terms and Licenses**
 Select disk and click **Next**
 
 ![select-disk](./images/select-disk.png)
+
+After process of installation is completed you will see screen to create a new user account.
+Under **Email** field you could find **Sign-in options** which you need to select. Next you will see a list with available options and you need to click on **Domain Join Instead**. After those steps you will see following:
+
+![user-acc-create](./images/user-acc-create.png)
+
+Create your username and proceed to password form
+
+![user-acc-password](./images/user-acc-password.png)
+
+Also the system will ask you to select 3 secret questions and answers to it. After all these steps and completion of installation, you can login to your new system and will see Windows 11 desktop
+
+![logged-in](./images/logged-in.png)
